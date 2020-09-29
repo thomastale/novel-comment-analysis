@@ -2,7 +2,7 @@
 
 
 ## scraper
-Set up a scraper on Wuxiaworld.com to grab Chapter, Publication Date, and Comments for 6 online novels. <br>
+Set up a scraper on Wuxiaworld.com to grab Chapter, Publication Date, and Comments for 6 online novels throughout multiple years and thousands of chapters. <br>
 Used BeautifulSoup 4 to scrape Chapter and Publication date. <br>
 Used Selenium to run a driver and load user comments (javascript elements). <br>
 
